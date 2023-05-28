@@ -11,3 +11,4 @@
     - Constant Acceleration: Jupyter notebook that uses the constant acceleration equations for motion in one direction. 
     - Free Fall: Jupyter notebook that illustrates the concept of free fall.
     - 2-D Motion: Jupyter notebook that illustrates motion in two dimensions.
+    - Projectile Motion: Jupyter notebook that illustrates the effect of launch angle on range of object in projectile motion.
