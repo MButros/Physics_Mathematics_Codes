@@ -8,3 +8,4 @@
     - Vector Algebra: Jupyter notebook that finds an algebraic combination for two vectors.
     - Vector Multiplication: Jupyter notebook that calculates the dot product and the cross product of two vectors.
     - Average Velocity: Jupyter notebook that shows an example of average and instantaneous velocity calculations.
+    - Constant Acceleration: Jupyter notebook that uses the constant acceleration equations for motion in one direction. 
