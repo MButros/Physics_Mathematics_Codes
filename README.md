@@ -10,3 +10,4 @@
     - Average Velocity: Jupyter notebook that shows an example of average and instantaneous velocity calculations.
     - Constant Acceleration: Jupyter notebook that uses the constant acceleration equations for motion in one direction. 
     - Free Fall: Jupyter notebook that illustrates the concept of free fall.
+    - 2-D Motion: Jupyter notebook that illustrates motion in two dimensions.
