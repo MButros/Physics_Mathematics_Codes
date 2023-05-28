@@ -12,3 +12,4 @@
     - Free Fall: Jupyter notebook that illustrates the concept of free fall.
     - 2-D Motion: Jupyter notebook that illustrates motion in two dimensions.
     - Projectile Motion: Jupyter notebook that illustrates the effect of launch angle on range of object in projectile motion.
+    - Euler: Jupyter notebook that uses Euler methods to solve a differential equation with an initial condition.
