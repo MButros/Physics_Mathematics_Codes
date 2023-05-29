@@ -14,3 +14,4 @@
     - Projectile Motion: Jupyter notebook that illustrates the effect of launch angle on range of object in projectile motion.
     - Euler: Jupyter notebook that uses Euler methods to solve a differential equation with an initial condition.
     - Matrix Multiplication and Inverse: Illustrates finding the inverse of a matrix and multiplied two matrices.
+    - Newton 1: Solves a sliding and hanging block problem, without friction, using Newton's laws of motion.
