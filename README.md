@@ -15,3 +15,4 @@
     - Euler: Jupyter notebook that uses Euler methods to solve a differential equation with an initial condition.
     - Matrix Multiplication and Inverse: Illustrates finding the inverse of a matrix and multiplied two matrices.
     - Newton 1: Solves a sliding and hanging block problem, without friction, using Newton's laws of motion.
+    - Newton 2: Solves the problem of hanging object by cords.
