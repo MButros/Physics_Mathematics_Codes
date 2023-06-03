@@ -17,3 +17,4 @@
     - Newton 1: Solves a sliding and hanging block problem, without friction, using Newton's laws of motion.
     - Newton 2: Solves the problem of hanging object by cords.
     - Newton 3: Solves an inclined object example.
+    - Newton 4: Solves the problem of Newton's law with friction
