@@ -19,3 +19,4 @@
     - Newton 3: Solves an inclined object example.
     - Newton 4: Solves the problem of Newton's law with friction
     - Newton 5: Solves the problem of Newton's law for uniform circular motion
+    - Work-Energy: applies the work-energy theorem to find final velocity of object
