@@ -18,3 +18,4 @@
     - Newton 2: Solves the problem of hanging object by cords.
     - Newton 3: Solves an inclined object example.
     - Newton 4: Solves the problem of Newton's law with friction
+    - Newton 5: Solves the problem of Newton's law for uniform circular motion
