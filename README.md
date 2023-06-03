@@ -21,3 +21,4 @@
     - Newton 5: Solves the problem of Newton's law for uniform circular motion
     - Work-Energy: applies the work-energy theorem to find final velocity of object
     - Work-Energy 2: applies the work-energy theorem to find final kinetic energy of object
+    - Variable Force Work: Find the work done by a non constant force
