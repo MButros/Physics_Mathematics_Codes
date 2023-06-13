@@ -25,4 +25,5 @@
     - Power: example for finding the power of forces, and determine whether kinetic energy is changing based on net power
     - Potential_1: example for finding the potential energy at different reference locations and the change of potential energy between two locations
     - Potential_2: Solve a work/energy problem involving thermal energy (friction)
-    - Potential_3: Soolve conservation of energy problem
+    - Potential_3: Solve conservation of energy problem
+    - Center_of_Mass: Find the center of mass of discrete masses at different locations
