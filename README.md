@@ -29,4 +29,4 @@
   - Potential_3: Solve conservation of energy problem
   - Center_of_Mass: Find the center of mass of discrete masses at different locations
   - Explosion: Find final velocities of an object that explodes
-  - Thrust: an example of system with changing mass
+  - Thrust: Example of system with changing mass
