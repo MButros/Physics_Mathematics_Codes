@@ -18,15 +18,15 @@
   - Newton 1: Solves a sliding and hanging block problem, without friction, using Newton's laws of motion.
   - Newton 2: Solves the problem of hanging object by cords.
   - Newton 3: Solves an inclined object example.
-  - Newton 4: Solves the problem of Newton's law with friction
-  - Newton 5: Solves the problem of Newton's law for uniform circular motion
-  - Work-Energy: applies the work-energy theorem to find final velocity of object
-  - Work-Energy 2: applies the work-energy theorem to find final kinetic energy of object
-  - Variable Force Work: Find the work done by a non constant force
-  - Power: example for finding the power of forces, and determine whether kinetic energy is changing based on net power
-  - Potential_1: example for finding the potential energy at different reference locations and the change of potential energy between two locations
-  - Potential_2: Solve a work/energy problem involving thermal energy (friction)
-  - Potential_3: Solve conservation of energy problem
-  - Center_of_Mass: Find the center of mass of discrete masses at different locations
-  - Explosion: Find final velocities of an object that explodes
-  - Thrust: Example of system with changing mass
+  - Newton 4: Solves the problem of Newton's law with friction.
+  - Newton 5: Solves the problem of Newton's law for uniform circular motion.
+  - Work-Energy: applies the work-energy theorem to find final velocity of object.
+  - Work-Energy 2: applies the work-energy theorem to find final kinetic energy of object.
+  - Variable Force Work: Find the work done by a non constant force.
+  - Power: example for finding the power of forces, and determine whether kinetic energy is changing based on net power.
+  - Potential_1: example for finding the potential energy at different reference locations and the change of potential energy between two locations.
+  - Potential_2: Solve a work/energy problem involving thermal energy (friction).
+  - Potential_3: Solve conservation of energy problem.
+  - Center_of_Mass: Find the center of mass of discrete masses at different locations.
+  - Explosion: Find final velocities of an object that explodes.
+  - Thrust: Example of system with changing mass.
